@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello there👋 Snigdha here!</h1>
----
+
 <h3 align="center">A passionate and driven B.Tech student specializing in AI and ML</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snig17&label=Profile%20views&color=0e75b6&style=flat" alt="snig17" /> </p>
 <h3 align = "left"> 🌐About Me </h3>

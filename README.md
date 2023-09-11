@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="left">🔗🤝🏼Connect with me:</h3>
+<h3 align="left">🔗🤝🏼Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sangam-snigdha-995966267" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam snigdha" height="30" width="40" /></a><br><br>
   

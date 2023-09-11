@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/sangam-snigdha-995966267" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam snigdha" height="30" width="40" /></a>
 </p><br><br>
 
-<img align="right" alt="Coding" width = "400" src="https://ai-essay.com/uploads/blog/10-mistakes-to-avoid-when-using-ai-essay-writing-tools/a1ef95a9-3a35-4ab0-bc87-71632865bf16.jpeg">
+<img align="right" alt="Coding"  src="https://ai-essay.com/uploads/blog/10-mistakes-to-avoid-when-using-ai-essay-writing-tools/a1ef95a9-3a35-4ab0-bc87-71632865bf16.jpeg">
 
 
 <p align="left">

@@ -64,6 +64,7 @@
 <p align="left">
   <img  width = "400" src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
 </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width = "200" height = "200" src="https://github-profile-trophy.vercel.app/?username=snig17" alt="snig17" /></a> </p>
 
 
 

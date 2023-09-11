@@ -3,7 +3,7 @@
 <h3 align="center">A passionate and driven B.Tech student specializing in AI and ML</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snig17&label=Profile%20views&color=0e75b6&style=flat" alt="snig17" /> </p>
 <h3 align = "left"> 🌐About Me </h3>
-
+---
 <p align="center">
 
   - Currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Vignana Bharathi Institue of Technology, I'm deeply passionate about the world of technology and data-driven innovation. My journey in this field has been marked by a thirst for knowledge and hands-on experience that has taken me to exciting places.

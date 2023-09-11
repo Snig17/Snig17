@@ -58,11 +58,11 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snig17&show_icons=true&locale=en&layout=compact" alt="snig17">
+  <img width = "400" height = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=snig17&show_icons=true&locale=en&layout=compact" alt="snig17">
 </p>
 
 <p align="left">
-  <img  width = "300"src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
+  <img  width = "400" height = "400" src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
 </p>
 
 

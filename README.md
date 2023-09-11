@@ -12,7 +12,7 @@
   - On the academic front, I take pride in being recognized as the topper in my class during the third year of my B.Tech program, a testament to my dedication and commitment to excellence.
   
 </p>
-
+--
 <h3 align="left">💼  Experience</h3>
 
 - My journey in the world of tech has been nothing short of exhilarating, filled with valuable experiences that have shaped my career path.
@@ -23,7 +23,7 @@
   - Data Science Intern at Intern-Box (Feb 2023 - Apr 2023)
   - Salesfoce Developer Intern at Smart Internz(Apr 2023 - May 2023)
 - But my journey doesn't stop there. I thrive on the collaborative spirit of the tech community, and you'll often find me actively contributing to open-source projects. It's my way of giving back to the tech ecosystem that has given me so much.
-  
+ -- 
 <h3 align = "left"> 💻🛠Languages and Tools </h3> 
 
 - Programming Languages: Python, C
@@ -49,7 +49,7 @@
 - Development Environments: Visual Studio Code, PyCharm
 - AI Ethics and Responsible AI: Ethical AI Practices
 
-
+--
 <h3 align="left">🔗🤝🏼Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sangam-snigdha-995966267" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam snigdha" height="30" width="40" /></a>

@@ -56,13 +56,14 @@
 
 <img align="right" alt="Coding" width = "400" src="https://ai-essay.com/uploads/blog/10-mistakes-to-avoid-when-using-ai-essay-writing-tools/a1ef95a9-3a35-4ab0-bc87-71632865bf16.jpeg">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snig17&show_icons=true&locale=en&layout=compact" alt="snig17">
 </p>
+
+
+
+
 
 
 

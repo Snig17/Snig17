@@ -57,10 +57,14 @@
 <h3 align="left">🔗🤝🏼Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sangam-snigdha-995966267" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam snigdha" height="30" width="40" /></a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://ai-essay.com/uploads/blog/10-mistakes-to-avoid-when-using-ai-essay-writing-tools/a1ef95a9-3a35-4ab0-bc87-71632865bf16.jpeg">
+  
+<img align="right" alt="Coding" width = "400" src="https://ai-essay.com/uploads/blog/10-mistakes-to-avoid-when-using-ai-essay-writing-tools/a1ef95a9-3a35-4ab0-bc87-71632865bf16.jpeg">
 
 <p align="left">
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
-</p
+  <img  width = "400" src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
+</p>
+
+<p align="left">
+  <img width = "400"  src="https://github-readme-stats.vercel.app/api/top-langs?username=snig17&show_icons=true&locale=en&layout=compact" alt="snig17">
+</p>
+

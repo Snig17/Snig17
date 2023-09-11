@@ -3,6 +3,7 @@
 
 <h3 align="center">A passionate and driven B.Tech student specializing in AI and ML</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snig17&label=Profile%20views&color=0e75b6&style=flat" alt="snig17" /> </p>
+
 [![MasterHead](https://www.root2learn.com/wp-content/uploads/2019/05/Artificial-Intelligence-AI-1.jpg)](https://github.com/Snig17)
 
 ---

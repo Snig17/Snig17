@@ -62,7 +62,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
+  <img  width = "300"src="https://github-readme-stats.vercel.app/api?username=snig17&show_icons=true&locale=en" alt="snig17">
 </p>
 
 

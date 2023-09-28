@@ -11,7 +11,7 @@
 <h3 align="left"> 🌐About Me </h3>
 
 - Currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Vignana Bharathi Institue of Technology.I'm deeply passionate about the world of technology and data-driven innovation, My journey in this field has been marked by a thirst for knowledge and hands-on experience that has taken me to exciting places.
-- I've also embarked on a quest for continuous learning, earning certifications in Machine Learning and Deep Learning from renowned platforms like Udemy, AWS, Great Learning, IBM, and Deeplearning.AI.
+- I've also embarked on a quest for continuous learning, earning certifications in Machine Learning and Deep Learning from renowned platforms like Coursera, Udemy, AWS, Great Learning, IBM, and Deeplearning.AI.
 - On the academic front, I take pride in being recognized as the topper in my class during the third year of my B.Tech program, a testament to my dedication and commitment to excellence.
 
 ---

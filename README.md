@@ -35,18 +35,17 @@
 - Machine Learning and Deep Learning:
   - Scikit-Learn
   - TensorFlow
-  -  PyTorch
   -  Keras
   -   Natural Language Processing (NLP)
   -    Computer Vision
   -  Reinforcement Learning
-  -  Neural Networks,
+  -  Neural Networks
 - Data Science and Analysis:
   -  Data Preprocessing
   -  Data Visualization (e.g., Matplotlib, Seaborn)
   -  Feature Engineering
   -   Statistical Analysis
-- Tools and Frameworks: Jupyter Notebook, Google Colab, Pandas, NumPy, OpenCV, Flask (for web applications), Streamlit, AWS (Amazon Web Services), Docker, Git and GitHub
+- Tools and Frameworks: Jupyter Notebook, Google Colab, Pandas, NumPy, OpenCV, Flask (for web applications), Streamlit, Docker, Git and GitHub
 - Data Manipulation and Databases: SQL
 - Version Control and Collaboration: Git/GitHub
 - Competitive Programming: Algorithm Design, Problem Solving, Data Structures
